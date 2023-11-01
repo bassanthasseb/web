@@ -1,0 +1,127 @@
+@media  screen and (max-width:800px) {
+
+    .nav {
+      flex-direction: column;
+    
+    }
+    .nav h2 {
+      margin-bottom: 10px;
+      
+    }
+  
+    .nav ul {
+      display: none;
+    }
+     .nav ul li {
+      margin-bottom: 10px;
+     }
+  }
+  @media screen and (max-width:600px){
+    .portfolio .container .imgs{
+        width:100%
+    }
+  }
+  @media screen and (max-width:800px){
+    .portfolio .container .imgs{
+        width:100%
+    }
+  }
+  @media screen and (max-width:1200px){
+    .portfolio .container .imgs{
+        width:100%
+    }
+  }
+
+
+  @media screen and (max-width:600px){
+    .blog .container .item-blog{
+        width:100%
+    }
+  }
+  @media screen and (max-width:800px){
+    .blog .container .item-blog{
+        width:100%
+    }
+  }
+  @media screen and (max-width:1200px){
+    .blog .container .item-blog{
+        width:100%
+    }
+  }
+
+  @media screen and (max-width:600px){
+    .other .count{
+        width:100%;
+        margin-bottom: 10px;
+    }
+  }
+  @media screen and (max-width:800px){
+    .other .count{
+        width:100%;
+        margin-bottom: 10px;
+    }
+  }
+  @media screen and (max-width:1200px){
+    .other .count{
+        width:100%;
+        margin-bottom: 10px;
+    }
+  }
+
+   @media screen and (max-width:600px){
+    .services .container .slide{
+        width:100%
+    }
+  }
+  @media screen and (max-width:800px){
+    .services .container .slide{
+        width:100%
+    }
+  }
+  @media screen and (max-width:1200px){
+    .services .container .slide{
+        width:100%
+    }
+  }
+
+  @media screen and (max-width:600px){
+    .about .image{
+        width:100% 
+    }
+  }
+  @media screen and (max-width:800px){
+    .about .image{
+        width:100%
+    }
+  }
+  @media screen and (max-width:1200px){
+    .services .container .slide{
+        width:%
+    }
+  }
+  @media screen and (max-width:600px){
+    .about .about-cap{
+        width:100% 
+    }
+  }
+  @media screen and (max-width:800px){
+    .about .about-cap{
+        width:100%
+    }
+  }
+  @media screen and (max-width:400px){
+    .about .image{
+        width:100% 
+    }
+  }
+  @media screen and (max-width:800px){
+    .about .image{
+        width:100%
+    }
+  }
+
+
+    
+  
+   
+   
